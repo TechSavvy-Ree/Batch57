@@ -24,3 +24,23 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 https://css-tricks.com/snippets/css/complete-guide-grid/
 https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw&si=B3D0HbF7x0PG1hOV
 
+11 Augest:
+https://youtu.be/FBc8ZMVZaBI
+https://youtu.be/xhqY9-11_90
+https://github.com/panaverse/learn-nextjs/tree/main/step07_styling/03.grid-with-tailwind
+https://github.com/panaverse/learn-nextjs/tree/main/step07_styling/04.responsiveness
+
+Official tailwind css Intellisense extension for VS code: 
+https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
+
+18 Auguest 2024:
+1: Shadcn UI Integration 
+2: Husky integration 
+3: step00_basic_concepts
+
+https://github.com/panaverse/learn-nextjs/tree/main/step10_react_client
+
+Today Class code link
+
+https://github.com/JahanzaibTayyab/18-aug-husky-shadcn-react
+https://youtu.be/bctbLRpOyxM?si=xPGl8d1AeZPE2ub8
