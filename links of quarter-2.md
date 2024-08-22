@@ -43,4 +43,5 @@ https://github.com/panaverse/learn-nextjs/tree/main/step10_react_client
 Today Class code link
 
 https://github.com/JahanzaibTayyab/18-aug-husky-shadcn-react
+YoutubeLink:
 https://youtu.be/bctbLRpOyxM?si=xPGl8d1AeZPE2ub8
