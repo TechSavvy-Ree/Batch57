@@ -45,3 +45,22 @@ Today Class code link
 https://github.com/JahanzaibTayyab/18-aug-husky-shadcn-react
 YoutubeLink:
 https://youtu.be/bctbLRpOyxM?si=xPGl8d1AeZPE2ub8
+
+25 Auguest 2024:
+NextJs Concepts
+
+https://github.com/panaverse/learn-nextjs
+
+1: Thinking in React 
+2: Describing the UI
+3: useState Hook
+
+https://github.com/panaverse/learn-nextjs/tree/main/step10_react_client
+
+Today Class code link:
+https://github.com/JahanzaibTayyab/18-aug-husky-shadcn-react
+Session Recording 
+https://youtu.be/-lFla-70_lU
+
+Session Recording 
+https://youtu.be/h6W-KoSA28Y
