@@ -64,3 +64,29 @@ https://youtu.be/-lFla-70_lU
 
 Session Recording 
 https://youtu.be/h6W-KoSA28Y
+
+19th October Class topics 
+
+Database Concepts
+
+https://github.com/panaverse/learn-nextjs
+
+- Database Concepts & ORM introductions 
+- Drizzle ORM integration with Supabase
+- Migration Generation 
+- Complete User Authentication and Registration flow 
+
+
+Repo link code
+
+https://github.com/panaverse/learn-nextjs/tree/main/step12_serverless_databases
+
+Today Class code link
+
+https://github.com/JahanzaibTayyab/Batch-57/tree/main/learn-nextjs/api-routing
+
+Session Recordings
+
+https://youtu.be/Wx-PH3gbRbI
+
+https://youtu.be/hxrCEdM9Kt0
